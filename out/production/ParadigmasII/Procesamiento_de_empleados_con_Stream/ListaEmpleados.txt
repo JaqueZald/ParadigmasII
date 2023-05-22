@@ -1,0 +1,9 @@
+José,García,5000,TI
+Rosario,Vázquez,7600,TI
+Luis,Prieto,10000,TI
+Luis,Vázquez,4500,Ventas
+Gabriela,Prieto,6000,Ventas
+Vianney,Rodríguez,65000,Marketing
+Francisco,Vázquez,50000,Marketing
+Irma,Domínguez,7500,Ventas
+Rosario,Prieto,100000,Marketing

@@ -1,0 +1,311 @@
+Nombre|Fecha|Edad|Expedicion|Nacionalidad|Causa de muerte|Ubicación
+Dorje|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Lhakpa|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Norbu|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Pasang|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Pema|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Sange|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Temba|June 7, 1922|20.0|1922 British Mount Everest Expedition|Nepal|Avalanche|Below North Col
+Man Bahadur|May 13, 1924|20.0|1924 British Mount Everest Expedition|Nepal|Pneumonia|Above Rongbuk B.C.
+Lance-Naik Shamsherpun|May 17, 1924|20.0|1924 British Mount Everest Expedition|Nepal|Brain hemorrhage|Above Rongbuk B.C.
+Andrew Irvine|June 9, 1924|22.0|1924 British Mount Everest Expedition|United Kingdom|Unknown. Body never found|N.E. Ridge
+George Mallory|June 9, 1924|37.0|1924 British Mount Everest Expedition|United Kingdom|Possible ice axe injury following a fall. Body found in 1999|N.E. Ridge
+Maurice Wilson|May 31, 1934|36.0|Solo Expedition|United Kingdom|Possible exhaustion, exposure or starvation. Body found 1935|East Rongbuk Glacier
+Dorje Mingma|October 31, 1952|20.0|Swiss Expedition|Nepal|Falling ice|Lhotse Face
+Wang Ji|April 11, 1960|20.0|Chinese Expedition Northern Slope|China|Mountain sickness|unknown
+Shao Shi-Ching|April 29, 1960|20.0|Chinese Expedition Northern Slope|China|unknown|N.E. Ridge
+Nawang Tshering|April 28, 1962|20.0|Chinese Expedition Northern Slope|Nepal|unknown|Lhotse face
+Jake Breitenbach|March 23, 1963|27.0|Norman Dyhrenfurth's American Mount Everest Expedition|United States|Crushed under serac|Icefall
+Ma Gao-shu|May 1, 1966|20.0|Chinese Everest Expedition|China|Fall|Icefall
+Phu Dorjee Sherpa|October 18, 1969|20.0|Japanese Everest Expedition|Nepal|Fall into a crevasse|Icefall
+Nima Dorje|April 5, 1970|20.0|Japanese Skiing Expedition|Nepal|Avalanche|Icefall
+Kunga Norbu|April 5, 1970|20.0|Japanese Skiing Expedition|Nepal|Avalanche|unknown
+Mima Norbu|April 5, 1970|20.0|Japanese Skiing Expedition|Nepal|Avalanche|Icefall
+Pasang|April 5, 1970|20.0|Japanese Skiing Expedition|Nepal|Avalanche|Icefall
+Kami Tshering|April 5, 1970|20.0|Japanese Skiing Expedition|Nepal|Avalanche|Icefall
+Kyak Tsering|April 9, 1970|36.0|Japanese Skiing Expedition|Nepal|by fall|5525 m
+Kiyoshi Narita|April 21, 1970|20.0|Japanese Skiing Expedition|Japan|Heart attack|6150m
+Harsh Vardhan|April 18, 1971|31.0|International Expedition of 1971|India|Succumbed after falling and being suspended above a crevasse during a blizzard|6900m
+Tony Tighe|November 16, 1972|20.0|Mt. Qomolangma expedition|Australia|Crushed under serac|Icefall
+Jangbu|October 12, 1973|20.0|Cerro de Joco|Nepal|Avalanche|S.W. Face
+Gérard Devouassoux|September 9, 1974|20.0|French West Ridge Direct expedition|France|Avalanche|6400m
+Pemba Dorje|September 9, 1974|20.0|French West Ridge Direct expedition|Nepal|Avalanche|6400m
+Lhakpa|September 9, 1974|20.0|French West Ridge Direct expedition|Nepal|Avalanche|6400m
+Nawang Lutuk|September 9, 1974|20.0|French West Ridge Direct expedition|Nepal|Avalanche|6400m
+Nima Wangchu|September 9, 1974|20.0|French West Ridge Direct expedition|Nepal|Avalanche|6400m
+Sanu Wongal|September 9, 1974|20.0|French West Ridge Direct expedition|Nepal|Avalanche|6400m
+Wu Zhuong Yue|May 4, 1975|20.0|Cerro de Joco|China|Exhaustion, fall|8500m
+Unknown ; deaf-mute Sherpa porter|Aug-75|20.0|1975 British Mount Everest Southwest Face expedition|Nepal|Drowned|Below Base Camp
+Mick Burke|September 26, 1975|34.0|Bonington's 1975 Everest expedition|United Kingdom|Disappearance (likely accidental death during climb)|Near Summit
+Terry Thompson|April 10, 1976|20.0|British-Nepal Army Everest Expedition|United Kingdom|Fall into a crevasse|Camp II
+Dawa Nuru|April 18, 1978|20.0|Cerro de Joco|Nepal|Fall into a crevasse|Icefall
+Shi Ming-ji|April 18, 1978|20.0|Chinese Iranian Expedition|China|Fall into a crevasse|Icefall
+Ang Phu|May 16, 1979|20.0|Yugoslavian Expedition|Nepal|Fall|Icefall
+Ray Genet|October 2, 1979|48.0|Gerhard Schmatz German Expedition or 1979 Swabian expedition|United States|Exposure, exhaustion|8400m S.E. Ridge
+Hannelore Schmatz|October 2, 1979|39.0|Gerhard Schmatz German Expedition or 1979 Swabian expedition|Germany|Exposure, exhaustion|8400m S.E. Ridge
+Wang Hong-bao|October 12, 1979|20.0|Japanese Alpine Club reconnaissance expedition|China|Avalanche|Below North Col
+Lou Lan|October 12, 1979|20.0|Japanese Alpine Club reconnaissance expedition|China|Avalanche|Below North Col
+Nima Thaxi|October 12, 1979|20.0|Japanese Alpine Club reconnaissance expedition|China|Avalanche|Below North Col
+Akira Ube|May 2, 1980|31.0|Japanese Alpine Society Expedition|Japan|Avalanche|7900m North Face (Hornbein Couloir)
+Nawang Kersang|September 6, 1980|20.0|Italian Expedition|Nepal|Fall|Icefall
+Mario Piana|September 22, 1980|20.0|Italian Expedition|Italy|Crushed under serac|Lhotse Face
+Noboru Takenaka|January 12, 1981|28.0|Japanese Winter Expedition|Japan|Fall|6900m W. Cwm
+Marty Hoey|May 15, 1982|30.0|Whittaker American Expedition|United States|Fall|8000m
+Peter Boardman|May 17, 1982|31.0|British Mount Everest Expedition|United Kingdom|Disappearance (likely accidental death during climb)|North-East Ridge (approx. 8200m)
+Joe Tasker|May 17, 1982|33.0|British Mount Everest Expedition|United Kingdom|Disappearance (likely accidental death during climb)|North-East Ridge (approx. 8200m)
+Ang Chuldim|August 31, 1982|20.0|Bill March Canadian Expedition|Nepal|Avalanche|Icefall
+Dawa Dorje|August 31, 1982|42.0|Bill March Canadian Expedition|Nepal|Avalanche|Icefall
+Pasang Sona|August 31, 1982|38.0|Bill March Canadian Expedition|Nepal|Avalanche|Icefall
+Blair Griffiths|September 2, 1982|33.0|Bill March Canadian Expedition|Canada|Crushed under serac|Icefall
+Lhakpa Tshering|September 27, 1982|20.0|Spanish Expedition|Nepal|Internal hemorrhage|6770m
+Nima Dorje|October 14, 1982|20.0|Spanish Expedition|Nepal|Fall|8300m W ridge
+Yasuo Kato|December 28, 1982|33.0|Japanese Expedition|Japan|Disappearance (likely accidental death during climb)|Near Summit
+Toshiaki Kobayashi|December 28, 1982|20.0|Japanese Expedition|Japan|Disappearance (likely accidental death during climb)|Near Summit
+Hironobu Kamuro|October 8, 1983|20.0|Japanese Expedition|Japan|Fall|Near Summit
+Pasang Temba|October 8, 1983|20.0|Japanese Expedition|Nepal|Fall|8600m SE Ridge
+Hiroshi Yoshino|October 9, 1983|20.0|Japanese Expedition|Japan|Fall|Near Summit
+Ang Rinji|March 26, 1984|20.0|Indian Expedition|Nepal|Avalanche|Icefall
+Tony Swierzy|April 3, 1984|27.0|Micheal Lane British North Face Expedition|United Kingdom|Avalanche|6238m
+Hristo Ivanov Prodanov|April 21, 1984|40.0|Bulgarian West Face Expedition|Bulgaria|Disappearance (likely accidental death during descent)|8500m West Ridge
+William (Fred) From|October 9, 1984|28.0|Australian-New Zealand Expedition|Australia|Fall, while searching for Craig Nottle|8000m
+Craig Nottle|October 9, 1984|23.0|Australian-New Zealand Expedition|Australia|Fall|8000m
+Jozef Psotka|October 16, 1984|50.0|Australian-New Zealand Expedition|Czechoslovakia|Fall|Near Summit
+Ang Dorje|October 24, 1984|35.0|Mission to recover body of Hannelore Schmatz|Nepal|Fall|8400m S.E. Ridge
+Yogendra Bahadur Thapa|October 24, 1984|36.0|Mission to recover body of Hannelore Schmatz|Nepal|Fall|8400m S.E. Ridge
+Juanjo Navarro|May 12, 1985|20.0|Navarrese Expedition|Spain|Fall|7300m
+Shinichi Ishii|September 19, 1985|20.0|Japanese Expedition|Japan|Avalanche|Below North Col
+Kiran Inder Kumar|October 7, 1985|40.0|Indian Expedition|India|Fall|7986m
+Jai Bahugana|October 11, 1985|20.0|Indian Expedition|India|Exposure|South Col
+Ranjeet Singh Bakshi|October 11, 1985|20.0|Indian Expedition|India|Exposure|South Col
+Vijay Pal Singh Negi|October 11, 1985|28.0|Indian Expedition|India|Exposure|South Col
+M.U. Bhaskar Rao|October 11, 1985|20.0|Indian Expedition|India|Exposure|South Col
+Víctor Hugo Trujillo|August 16, 1986|22.0|Cerro de Joco|Chile|Avalanche|Below North Col
+Simon Burkhardt|September 28, 1986|52.0|Eiselin Sports Expedition|Switzerland|Avalanche|7315m
+Gyalu|October 4, 1986|20.0|Eiselin Sports Expedition|Nepal|Crushed under serac|Icefall
+Dawa Norbu|October 17, 1986|20.0|Eiselin Sports Expedition|Nepal|Avalanche|Below North Col
+Tsuttin Dorje|January 30, 1987|20.0|Cerro de Joco|Nepal|Fall|7700m
+Roger Marshall|May 21, 1987|45.0|Cerro de Joco|Canada|Disappearance (likely accidental death during descent)|Hornbein Couloir, Near Summit
+Masao Yokoyama|September 2, 1987|44.0|Japanese Expedition|Japan|Drowned|East Rongbuk Glacier
+Mangal Singh|October 20, 1987|20.0|British Expedition|Nepal|Avalanche|Base camp
+Hidetaka Mizukoshi|April 21, 1988|20.0|35th Anniversary climb with Chinese, Japanese and Nepalese nationals|Japan|Heart attack (at Base camp)|Base camp
+Michel Parmentier|September 20, 1988|20.0|International|France|Exposure|7700m
+Narayan Shrestha|September 21, 1988|20.0|Cerro de Joco|Nepal|Avalanche|7200m
+Lhakpa Sonam|October 13, 1988|20.0|Cerro de Joco|Nepal|Fall|8200m
+Pasang Temba|October 13, 1988|20.0|Cerro de Joco|Nepal|Fall|8200m
+Dušan Becík|October 17, 1988|34.0|IAMES Bratislava Expedition|Czechoslovakia|Disappearance (likely accidental death during descent after reaching South Summit with Jozef Just rejoining group after he summited Everest solo)[75][76]|8000m S.W. Ridge
+Peter Božík|October 17, 1988|34.0|IAMES Bratislava Expedition|Czechoslovakia|Disappearance (likely accidental death during descent after reaching South Summit with Jozef Just rejoining group after he summited Everest solo)[75][76]|8000m S.W. Ridge
+Jaroslav Jaško|October 17, 1988|26.0|IAMES Bratislava Expedition|Czechoslovakia|Disappearance (likely accidental death during descent after reaching South Summit with Jozef Just rejoining group after he summited Everest solo)[75][76]|8000m S.W. Ridge
+Jozef Just|October 17, 1988|33.0|IAMES Bratislava Expedition|Czechoslovakia|Disappearance (likely accidental death during descent after reaching South Summit with Jozef Just rejoining group after he summited Everest solo)[75][76]|8000m S.W. Ridge
+Ang Lhakpa|December 23, 1988|20.0|Cerro de Joco|Nepal|Cerebral thrombosis|South Col
+Dimitar Ilievski-Murato|May 10, 1989|35.0|Cerro de Joco|Yugoslavia|Fall|Descending South Col Route
+Phu Dorje|May 16, 1989|20.0|Cerro de Joco|Nepal|Fall|Descending South Col Route
+Mirosław Dąsal|May 27, 1989|37.0|Polish-led expedition that included four U.S. mountaineers|Poland|Avalanche|7200m W ridge
+Mirosław Gardzielewski|May 27, 1989|35.0|Polish-led expedition that included four U.S. mountaineers|Poland|Avalanche|7200m W ridge
+Andrzej Heinrich|May 27, 1989|51.0|Polish-led expedition that included four U.S. mountaineers|Poland|Avalanche|7200m W ridge
+Wacław Otręba|May 27, 1989|50.0|Polish-led expedition that included four U.S. mountaineers|Poland|Avalanche|7200m W ridge
+Eugeniusz Chrobak|May 28, 1989|30.0|Polish-led expedition that included four U.S. mountaineers|Poland|Avalanche injuries|Lhola camp
+Ang Pinjo|December 12, 1989|20.0|South Korean expedition|Nepal|Altitude sickness, heart attack|unknown
+Rafael Gómez-Menor|September 14, 1990|20.0|Cerro de Joco|Spain|Avalanche|unknown
+Ang Sona|September 14, 1990|20.0|Cerro de Joco|Nepal|Avalanche|unknown
+Badri Nath|September 14, 1990|20.0|Cerro de Joco|Nepal|Avalanche|unknown
+Ham Sang-hun|October 7, 1990|20.0|Japanese Korean expedition|South Korea|Disappearance (likely accidental death during climb)|unknown
+Rüdiger Lang|May 3, 1991|20.0|Austrian solo expedition|Germany|Exposure|7850m N.E. Ridge
+Junichi Futagami|May 27, 1991|20.0|Japanese solo expedition|Japan|Fall|8700m NE
+Deepak Kulkarni|May 2, 1992|20.0|Indian expedition|India|Exposure|unknown
+Raymond Jacob|May 2, 1992|20.0|Indian expedition|India|Exposure|unknown
+Subba Singh|May 11, 1992|43.0|Cerro de Joco|Nepal|Heart attack|unknown
+Sher Singh|May 23, 1992|20.0|Indian Expedition|India|Fall|Icefall
+Manabu Hoshi|May 23, 1992|20.0|Japanese Expedition|Japan|Disappearance (likely accidental death during climb)|8350m NE
+Ang Tshering|January 15, 1993|20.0|Spanish Expedition|Nepal|Fall|unknown
+Pasang Lhamu Sherpa|April 23, 1993|32.0|Nepalese Expedition|Nepal|Disappearance (likely accidental death during climb)|8750m S.E. Ridge
+Sonam Tshering|April 23, 1993|20.0|Nepalese Expedition|Nepal|unknown|8750m S.E. Ridge
+Lobsang Tshering Bhutia|May 10, 1993|41.0|40th anniversary of Tenzing Norgay's climb|Nepal|Fall|8750m S.E. Ridge
+Nam Won-woo|May 16, 1993|20.0|South Korean expedition|South Korea|Fall|8450m S.E. Ridge
+A Jin-seob|May 17, 1993|20.0|South Korean expedition|South Korea|Fall|8450m S.E. Ridge
+Karl Henize|October 5, 1993|66.0|American expedition|United States|HAPE|6400m
+Antonio Miranda|October 7, 1993|20.0|Cerro de Joco|Spain|Fall|unknown
+Prem Thapa|April 6, 1994|20.0|German Expedition|Nepal|Cerebral oedema|unknown
+Shih Fang-Fang 'Norman'|May 9, 1994|27.0|Taiwanese|Taiwan|Exhaustion and/or exposure|unknown
+Giuseppe Vigani|May 18, 1994|43.0|Italian Expedition|Italy|Fall|North Face
+Mike Rheinberger|May 27, 1994|53.0|Australian Expedition|Australia|150m fall. He showed signs of exhaustion, dehydration, cerebral oedema, retinal hemorrhages and possible blood clots in his upper legs.|8500m NE
+Mingma Norbu|September 12, 1994|20.0|Norwegian Expedition|Nepal|Avalanche|unknown
+Kami Rita|May 6, 1995|20.0|American Expedition|Nepal|Fall|unknown
+Lhakpa Nuru|September 10, 1995|20.0|South Korean Expedition|Nepal|unknown|6900m
+Zangbu|October 14, 1995|20.0|South Korean Expedition|Nepal|Fall|Near Summit
+Chen Yu-Nan|May 9, 1996|36.0|"""Makalu"" Gau Ming-Ho Taiwanese expedition"|Taiwan|Injuries from a fall|unknown
+Scott Fischer|May 11, 1996|40.0|Mountain Madness|United States|Suspected HACE (high-altitude cerebral edema), exhaustion, frostbite and exposure.|8300m S.E. Ridge
+Rob Hall|May 11, 1996|35.0|Adventure Consultants|New Zealand|Exposure|South Summit
+Doug Hansen|May 11, 1996|46.0|Adventure Consultants|United States|Exposure|South Summit
+Andrew Harris|May 11, 1996|31.0|Adventure Consultants|New Zealand|Disappearance (likely accidental death during climb)|8700m S.E. Ridge
+Yasuko Namba|May 11, 1996|47.0|Adventure Consultants|Japan|Exposure|South Col
+Dorje Morup|May 11, 1996|47.0|Indo-Tibetan Border Police|India|Exposure|8600m N.E. Ridge
+Tsewang Paljor|May 11, 1996|28.0|Indo-Tibetan Border Police|India|Exposure|8600m N.E. Ridge
+Tsewang Samanla|May 11, 1996|38.0|Indo-Tibetan Border Police|India|Exposure|8600m N.E. Ridge
+Reinhard Wlasich|May 19, 1996|20.0|Austrian|Austria|Altitude sickness|8300m North Face, Great Couloir
+Bruce Herrod|May 25, 1996|37.0|South African/British|United Kingdom|Rope accident|S.E. Ridge, Hillary Step
+Ngawang Topche|June 6, 1996|20.0|American|Nepal|Lapsed into coma on 23 Apr 1996; later died in hospital|Camp II
+Yves Bouchon|September 25, 1996|20.0|French/Belgian/Swiss|France|Avalanche|7400m Lhotse Face
+Lopsang Jangbu|September 25, 1996|24.0|Japanese|Nepal|Avalanche|7400m Lhotse Face
+Dawa|September 25, 1996|20.0|South Korea|Nepal|Avalanche|7400m Lhotse Face
+Malcolm Duff|April 23, 1997|20.0|British|United Kingdom|Heart attack (at Base camp)|Base Camp
+Nima Rinzi|May 6, 1997|20.0|Malaysian|United Kingdom|Fall|Lhotse Face
+Aleksandr Torochin|May 7, 1997|20.0|Russian|Russia|Fall|8400m N.E. Ridge
+Ivan Plotnikov|May 7, 1997|20.0|Russian|Russia|Exhaustion and/or exposure|8700m N.E. Ridge
+Nikolai Shevtchenko|May 7, 1997|20.0|Russian|Russia|Exhaustion and/or exposure|8700m N.E. Ridge
+Mingma|May 7, 1997|20.0|Russian|Nepal|Fall|N.E. Ridge
+Peter Kowalzik|May 8, 1997|20.0|Polish|Germany|Disappearance (likely accidental death during climb)|N.E. Ridge
+Tenzing Nuru|September 8, 1997|20.0|American|Nepal|Disappearance (likely accidental death during climb)|S.E. Ridge
+Choi Byong-soo|September 8, 1997|20.0|South Korean|South Korea|Avalanche|North Col Flank
+Sergei Arsentiev|May 24, 1998|20.0|Russian/French|United States|100m fall|N.E. Ridge
+Francys Arsentiev|May 24, 1998|40.0|Russian/French|United States|Exposure and/or cerebral oedema|N.E. Ridge
+Mark Jennings|May 25, 1998|20.0|British|United Kingdom|Exhaustion|N.E. Ridge
+Roger Buick|May 26, 1998|20.0|New Zealand|New Zealand|Exhaustion|N.E. Ridge
+Shahid Abdul Khader|July 24, 1998|21.0|Cerro de Joco|India|Died due to fall|North Col
+Vasyl Kopytko|May 8, 1999|20.0|Ukrainian|Ukraine|Unknown cause|N.E. Ridge
+Michael Matthews|May 13, 1999|22.0|International|United Kingdom|unknown|S.E. Ridge
+Tadeusz Kudelski|May 18, 1999|44.0|Polish International|Poland|Fall|N.E. Ridge
+Pascal Debrouwer|May 18, 1999|29.0|Belgian International|Belgium|Fall|N.E. Ridge
+Jeppe Stoltz|May 20, 2000|27.0|Cerro de Joco|Denmark|Fall|N.E. Ridge
+Yan Genghua|May 21, 2000|20.0|Chinese|China|Disappeared after reaching the north summit; body found on May 27, 2000; likely accidental death during descent|N.E. Ridge
+Babu Chiri Sherpa|April 29, 2001|35.0|Nepalese|Nepal|Fall|N.E. Ridge
+Peter Ganner|May 23, 2001|20.0|Austrian|Austria|Fall|8500m S.E. Ridge
+Mark Auricht|May 24, 2001|20.0|Australian|Australia|Cerebral oedema|N.E. Ridge
+Aleksei Nikiforov|May 24, 2001|20.0|Russian|Russia|Pre-existing illness exacerbated by freezing conditions, altitude|8500m N.E. Ridge
+Sándor Gárdos|October 17, 2001|20.0|Hungarian|Hungary|Fall|7800m N.E. Ridge
+Peter Legate|April 30, 2002|38.0|British International|United Kingdom|Fall into a crevasse|Below Camp III
+Zoran Miletić|May 19, 2002|20.0|Russian International|Yugoslavia|Exact cause and date of death unknown|7800m N.E. Ridge
+Marco Siffredi|September 8, 2002|23.0|International|France|Snowboarding accident|Hornbein Couloir
+Bhim Bahadur Gurung|May 27, 2003|20.0|Indo-Nepal|Nepal|Fall into a crevasse|5900m Icefall
+Jan Krzysztof Liszewski|May 25, 2003|55.0|Independent|Poland|Fall|7900m N.E. Ridge
+Arnaud Saulnier|May 8, 2003|20.0|French|France|Sickness in tent|5500m S.E. Ridge
+Karma Gyalzen Sherpa|May 24, 2003|20.0|International|Nepal|Altitude sickness|6000m S.E. Ridge
+Joon-ho Baek|May 18, 2004|38.0|South Korean|South Korea|Exposure|8500m N.E. Ridge
+Min Jang|May 18, 2004|28.0|South Korean|South Korea|Exposure|8500m N.E. Ridge
+Mu-taek Park|May 18, 2004|36.0|South Korean|South Korea|Exposure|8500m N.E. Ridge
+Nils Antezana|May 18, 2004|69.0|International|United States|Exposure|8600m S.E. Ridge
+Hristo Ganchev Hristov|May 20, 2004|27.0|Bulgarian|Bulgaria|Exposure|8600m N.E. Ridge
+Shoko Ota|May 20, 2004|63.0|Japanese|Japan|Exposure|8600m N.E. Ridge
+Mariana Prodanova Maslarova|May 23, 2004|43.0|Bulgarian|Bulgaria|Exposure|8700m N.E. Ridge
+Sean Egan|April 28, 2005|63.0|Tim Redpath Expedition|Canada|Heart attack|4600m S.E. Ridge
+Michael Corey O'Brien[118]|May 2, 2005|39.0|Charity run with brother|United States|Fall into a crevasse|5800m Icefall South
+Marko Lihteneker|May 21, 2005|45.0|Cerro de Joco|Slovenia|Oxygen problems|8600m N.E. Ridge
+Sirigereshiva Shankarappa Chaitanya|May 30, 2005|20.0|India|India|Exposure|8700m N.E. Ridge
+Dieter Kramer|June 4, 2005|20.0|German|Germany|Exposure|8000m N.E.
+Robert William Milne|June 5, 2005|49.0|Cerro de Joco|United Kingdom|Organ failure due to freezing conditions|8200m S.E. Ridge
+Tuk Bahadur Thapa Magar Sherpa|April 7, 2006|20.0|American|Nepal|Altitude|5500m N.E. Ridge
+Ang Phinjo Sherpa|April 21, 2006|50.0|American|Nepal|Avalanche|5900m Icefall
+Lhakpa Tseri|April 21, 2006|20.0|American|Nepal|Avalanche|5900m Icefall
+Dawa Temba|April 21, 2006|20.0|American|Nepal|Avalanche|5900m Icefall
+Jacques-Hugues Letrange|May 6, 2006|20.0|American|France|Exhaustion|N.E. Ridge
+Srikrishna|May 14, 2006|20.0|Indian|India|Fall|8600m N.E. Ridge
+David Sharp|May 15, 2006|34.0|Asian Trekking|United Kingdom|Exposure and/or exhaustion|8600m N.E. Ridge
+Tomas Olsson|May 16, 2006|30.0|Cerro de Joco|Sweden|Fall|8700m Norton Couloir
+Vitor Negrete|May 19, 2006|38.0|Asian Trekking|Brazil|Exposure and/or exhaustion|Camp III, 8200m N.E. Ridge
+Igor Plyushkin|May 22, 2006|20.0|Asian Trekking|Russia|Altitude sickness|7800m N.E. Ridge
+Thomas Weber|May 25, 2006|20.0|Asian Trekking|Germany|Altitude sickness|8700m N.E. Ridge
+Dawa Sherpa|April 26, 2007|20.0|Cerro de Joco|Nepal|unknown|7200m South Col
+Shinichi Ishii|May 17, 2007|20.0|Cerro de Joco|Japan|unknown|8650m
+Libor Kozak|May 17, 2007|20.0|Cerro de Joco|Czech|unknown|8300m
+Yoshitomi Okura|May 16, 2007|62.0|Japanese|Japan|unknown|N.E. Ridge
+Maurizio Pierangelo|May 17, 2007|46.0|Italian|Italy|unknown|N.E. Ridge
+Oh Hee-joon|May 17, 2007|37.0|South Korean|South Korea|unknown|S.W. Face
+Lee Hyun-jo|May 17, 2007|34.0|Cerro de Joco|South Korea|unknown|S.W. Face
+Uwe Gianni Goltz|May 21, 2008|44.0|Sherpas documentary team|Switzerland|Exhaustion|8000m South Col
+Lhakpa Nuru|May 7, 2009|20.0|Eco Everest Expedition|Nepal|Avalanche|Icefall
+Věslav Chrzaszcz|May 18, 2009|47.0|Eco Everest Expedition|Czech|Heart attack|unknown
+Wenhong Wu|May 19, 2009|41.0|Cerro de Joco|China|Altitude sickness|8750m
+Frank Ziebarth|May 21, 2009|29.0|Cerro de Joco|Canada|Hypothermia and lack of oxygen|8700m North Summit
+László Várkonyi|April 26, 2010|54.0|Cerro de Joco|Hungary|Avalanche crevasse fall|North Col
+Tom Jørgensen|May 19, 2010|56.0|Cerro de Joco|Denmark|HACE|unknown
+Peter Kinloch|May 26, 2010|28.0|International|United Kingdom|Exhaustion|8600m
+Rick Hitch|May 1, 2011|55.0|International|United States|Heart attack|7010m
+Alston Mendonca|May 4, 2011|55.0|International|India|Heart Break|7010m
+Shailendra Kumar Upadhyaya|May 9, 2011|82.0|Nepal|Nepal|Altitude sickness|Base Camp
+Takashi Ozaki|May 12, 2011|58.0|International|Japan|Altitude sickness|8400m The Balcony
+John Delaney|May 21, 2011|42.0|International|Ireland|Altitude sickness|8400m The Balcony
+Hiroaki Kino|September 15, 2011|48.0|Cerro de Joco|Japan|Cerebral apoplexy|Lower Icefall
+Dawa Tenzing|April 5, 2012|20.0|Himex|Nepal|Stroke (CVA)|Icefall
+Karsang Namgyal Sherpa|April 19, 2012|20.0|Prestige Adventures|Nepal|Altitude sickness|Base Camp
+Ramesh Gulve|April 20, 2012|33.0|Pune team|India|Stroke|Base Camp
+Namgyal Tshering Sherpa|April 21, 2012|28.0|Cerro de Joco|Nepal|Fall into a crevasse|Camp I
+Shriya Shah-Klorfine|May 19, 2012|33.0|Utmost Adventures|Canada|Exhaustion|Below Balcony 8300m
+Eberhard Schaaf|May 19, 2012|61.0|Asian Trekking|Germany|Cerebral oedema|Hillary Step
+Song Won-bin|May 19, 2012|44.0|Korean Everest & Lhotse Expedition|South Korea|Fall|Balcony
+Ha Wenyi|May 20, 2012|55.0|Mountain Experience|China|Suspected altitude sickness|Balcony
+Juan José Polo Carbayo|May 20, 2012|43.0|Himalayan Guides|Spain|Exhaustion|8300m N.E. Ridge
+Ralf D. Arnold|May 20, 2012|43.0|Monterosa|Germany|Exhaustion and related complications after breaking leg at Second Step|8300m N.E. Ridge
+Mingma Sherpa|April 7, 2013|45.0|Destination Himalaya|Nepal|Falling into a crevasse|Between Camps I and II in the Western Cwm
+DaRita Sherpa|May 5, 2013|37.0|International Mountain Guides|Nepal|Suspected cardiac arrest|Camp III on south side
+Sergey Ponomarev|May 5, 2013|20.0|7 Summits Club Everest expedition|Russia|Suspected cardiac arrest|At 100m above ABC on north side (at about 6500m)
+Lobsang Sherpa|May 7, 2013|22.0|Chinese expedition team|Nepal|Fall|Between Camp II and Camp III on descent from Camp IV (on south side)
+Alexey Bolotov|May 15, 2013|50.0|Russian South-West Face expedition|Russia|Fall|5600m Icefall
+Namgyal Sherpa|May 17, 2013|35.0|Cerro de Joco|Nepal|unknown|8300m N.E. Ridge
+Seo Sung-ho|May 21, 2013|33.0|Zero to 8848 expedition|South Korea|Suspected altitude sickness|On descent (south side)
+Sajal Khaled (Mohammed Khaled Hossain)|May 21, 2013|35.0|Cerro de Joco|Bangladesh|Suspected altitude sickness|South Col Camp
+Unknown climber|May 22, 2013|20.0|Cerro de Joco|Nepal|Suspected altitude sickness|Camp IV (south side) in tent
+Mingma Tenzing Sherpa|April 2, 2014|20.0|Peak Freaks Expedition|Nepal|HAPE|Everest Base Camp
+Mingma Nuru Sherpa|April 18, 2014|46.0|NBC Everest Expedition|Nepal|2014 Mount Everest Avalanche|Icefall
+Dorji Sherpa|April 18, 2014|20.0|NBC Everest Expedition|Nepal|2014 Mount Everest Avalanche|Icefall
+Ang Tshiri Sherpa|April 18, 2014|20.0|AAI Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Nima Sherpa|April 18, 2014|20.0|AAI Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Tenzing Chottar Sherpa|April 18, 2014|20.0|AAI Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Phurba Ongyal Sherpa|April 18, 2014|20.0|Adventure Consultants|Nepal|2014 Mount Everest Avalanche|Icefall
+Lapka Tenjing Sherpa|April 18, 2014|20.0|Adventure Consultants|Nepal|2014 Mount Everest Avalanche|Icefall
+Chhiring Ongchu Sherpa|April 18, 2014|20.0|Adventure Consultants|Nepal|2014 Mount Everest Avalanche|Icefall
+Dorjee Khatri|April 18, 2014|20.0|Adventurist Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Then Dorjee Sherpa|April 18, 2014|20.0|Adventurist Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Phur Temba Sherpa|April 18, 2014|20.0|Adventurist Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Pasang Karma Sherpa|April 18, 2014|20.0|Jagged Globe Everest Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Ankaji Sherpa|April 18, 2014|20.0|Everest Chinese Dream Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+PemTenji Sherpa|April 18, 2014|20.0|Everest Chinese Dream Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Aash Bahadur Gurung|April 18, 2014|20.0|Everest Chinese Dream Expedition 2014|Nepal|2014 Mount Everest Avalanche|Icefall
+Daniel Paul Fredinburg|April 25, 2015|33.0|2015 Jagged Globe Everest Expedition|United States|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Marisa Eve Girawong|April 25, 2015|28.0|H.G. Nuptse Expedition 2015|United States|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Thomas Ely Taplin|April 25, 2015|61.0|TET Films & Photography|United States|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Pemba Sherpa|April 25, 2015|19.0|Adventure Consultants|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Dawa Tsering Sherpa|April 25, 2015|33.0|Adventure Consultants|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Maila (Milan) Rai|April 25, 2015|41.0|Adventure Consultants|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Chhimi Dawa Sherpa|April 25, 2015|27.0|Adventure Consultants|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Pema Yishi (Hissi) Sherpa|April 25, 2015|20.0|Adventure Consultants|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Pasang Temba Sherpa|April 25, 2015|20.0|Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Krishna Kumar Rai|April 25, 2015|20.0|Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Tenzing (Tengien) Bhote|April 25, 2015|20.0|Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Renu Fotedar|April 25, 2015|49.0|First Chinese Women Everest Expedition|Australia|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Lhakpa Chhiring Sherpa|April 25, 2015|33.0|First Chinese Women Everest Expedition|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Vinh B Truong|April 25, 2015|48.0|Trekker|United States|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Shiva Kumar Shrestha|April 25, 2015|25.0|Step Up Campaign Everest|Nepal|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Unknown climber|April 25, 2015|20.0|Cerro de Joco|Mexican|Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Jangbu Sherpa|May 1, 2015|20.0|Adventure Consultants|Nepal|Died in Kathmandu due to injuries sustained in the Base Camp avalanche following the April 2015 Nepal earthquake|Base Camp
+Charles MacAdams|May 11, 2016|62.0|Cerro de Joco|Canada|Cardiac event|Base Camp North Side
+Phurba Sherpa|May 19, 2016|25.0|Cerro de Joco|Nepal|Fall|Near summit
+Eric Arnold|May 21, 2016|35.0|Arnold Coster Expeditions|Netherlands|Altitude sickness|South Col / Camp IV
+Marisa Elizabeth Strydom|May 22, 2016|34.0|Arnold Coster Expeditions|Australia|Snow blindness, stroke|Near Camp IV
+Subhash Pal|May 22, 2016|44.0|Trekking Camp Nepal|India|Altitude sickness|Around Camp III
+Paresh Chandra Nath|May 22, 2016|58.0|Trekking Camp Nepal|India|Exposure|The Balcony
+Goutam Ghosh|May 22, 2016|50.0|Trekking Camp Nepal|India|Exposure|The Balcony
+Min Bahadur Sherchan|May 5, 2017|85.0|Cerro de Joco|Nepal|Heart Attack|Base Camp
+Roland Yearwood|May 20, 2017|50.0|Everest Parivar Treks|United States|Altitude sickness|Balcony
+Vladimír Štrba|May 21, 2017|48.0|Everest Hard Way Slovak Expedition 2017|Slovakia|Altitude sickness|Camp IV, in the tent
+Francesco Enrico Marchetti|May 21, 2017|54.0|Expedition Himalaya|Australia|Altitude sickness|Camp IV
+Ravi Kumar|May 21, 2017|27.0|Arun Treks and Expedition|India|Fall into a 200m crevasse|Balcony
+Lam Babu Sherpa|May 14, 2018|45.0|Seven Summit Treks|Nepal|Disappearance (reportedly suffered from snow blindness)|Above South Col
+Pasang Norbu Sherpa|May 18, 2018|41.0|7 Summits Club Expedition|Nepal|Stroke|8550m N.E. Ridge
+Gjeorgi Petkov|May 20, 2018|63.0|Tim Mosedale Everest Expedition Spring 2018|North Macedonia|Cardiac arrest|Above Camp III
+Nobukazu Kuriki|May 21, 2018|36.0|Solo|Japan|"Hypothermia, had previously reported ""persistent cough and pain"" during attempt"|Camp II
+Damai Sarki Sherpa|May 21, 2018|37.0|Himalayan Ascent, Seven Summit Treks|Nepal|Fall into a crevasse|Camp II
+Chris Daly|April 20, 2019|35.0|Solo|United States|Died after a fall while trekking down from base camp|Base Camp
+Séamus (Shay) Lawless|May 16, 2019|39.0|Seven Summit Treks|Ireland|Presumed dead after fall|Balcony
+Ravi Thakar|May 17, 2019|28.0|Seven Summit Treks|India|Altitude sickness|Camp 4
+Donald Cash|May 22, 2019|55.0|Pioneer Adventures|United States|Altitude sickness|Hillary Step
+Nihal Bagwan|May 23, 2019|27.0|Peak Promotions|India|Exhaustion on descent|near South Col
+Ernst Landgraf|May 23, 2019|65.0|Kobler & Partners|Austria|Exhaustion on descent|Tibet side at 8600m after summiting
+Anjali S Kulkarni|May 23, 2019|54.0|Transcent or Arun Treks|India|Exhaustion on descent|Near Camp IV
+Kalpana Dash|May 23, 2019|52.0|Dreamers Destination Treks|India|Exhaustion on descent|Near Balcony
+Kevin Hynes|May 24, 2019|56.0|360 Expeditions|Ireland|Altitude sickness|North Col
+Dhruba Bista|May 24, 2019|20.0|Himalayan Ecstasy (Ski) Treks|Nepal|Exhaustion and altitude sickness|Base Camp following evacuation from Camp III
+Robin Haynes Fisher|May 25, 2019|44.0|Summit Climb/ Everest Parivar Expedition Ltd|United Kingdom|Exhaustion during descent|100 metres below peak
+Christopher Jon Kulish|May 27, 2019|62.0|Climbing the Seven Summits|United States|Cardiac event during descent|South Col
+Puwei Liu|May 12, 2021|55.0|Seven Summit Treks|United States|Exhaustion|Near South Summit
+Abdul Waraich|May 12, 2021|41.0|Seven Summit Treks|Switzerland|Exhaustion|Near South Summit
+Pemba Tashi Sherpa|May 18, 2021|28.0|Climbing the Seven Summits|Nepal|Fall into a crevasse|Between Camp I & Camp II
+Wong Dorchi Sherpa|May 23, 2021|20.0|7 Summits Club|Nepal|unknown|near South Col
