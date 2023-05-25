@@ -7,10 +7,10 @@ import java.awt.event.ActionListener;
 
 public class Eje17 {
     private JFrame frame;
-    private JLabel questionLabel;
-    private JTextField answerTextField;
+    private JLabel PreguntaLabel;
+    private JTextField RespuestaTextField;
     private JButton submitButton;
-    private JTextArea resultTextArea;
+    private JTextArea resultadoTextArea;
 
     private String[] activities = {
             "Anne is Paul's?",
@@ -39,47 +39,47 @@ public class Eje17 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new FlowLayout());
 
-        questionLabel = new JLabel(activities[currentQuestionIndex]);
-        answerTextField = new JTextField(15);
+        PreguntaLabel = new JLabel(activities[currentQuestionIndex]);
+        RespuestaTextField= new JTextField(15);
         submitButton = new JButton("Submit");
-        resultTextArea = new JTextArea(30, 30);
-        resultTextArea.setEditable(false);
+        resultadoTextArea = new JTextArea(30, 30);
+        resultadoTextArea.setEditable(false);
 
         submitButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                String response = answerTextField.getText().trim();
+                String response = RespuestaTextField.getText().trim();
                 String correctAnswer = correctAnswers[currentQuestionIndex];
 
-                resultTextArea.append("Question: " + activities[currentQuestionIndex] + "\n");
-                resultTextArea.append("Response: " + response + "\n");
+                resultadoTextArea.append("Pregunta: " + activities[currentQuestionIndex] + "\n");
+                resultadoTextArea.append("Respuesta: " + response + "\n");
 
                 if (response.equalsIgnoreCase(correctAnswer)) {
-                    resultTextArea.append("Correct!\n");
+                    resultadoTextArea.append("Correcto\n");
                 } else {
-                    resultTextArea.append("Incorrect!\n");
-                    resultTextArea.append("Correct answer: " + correctAnswer + "\n");
+                    resultadoTextArea.append("Incorrecto\n");
+                    resultadoTextArea.append("Respuesta Correcta: " + correctAnswer + "\n");
                 }
 
-                resultTextArea.append("-----------------------\n");
+                resultadoTextArea.append("-----------------------\n");
 
                 currentQuestionIndex++;
 
                 if (currentQuestionIndex < activities.length) {
-                    questionLabel.setText(activities[currentQuestionIndex]);
-                    answerTextField.setText("");
-                    answerTextField.requestFocus();
+                    PreguntaLabel.setText(activities[currentQuestionIndex]);
+                    RespuestaTextField.setText("");
+                    RespuestaTextField.requestFocus();
                 } else {
-                    questionLabel.setText("Questionnaire completed.");
-                    answerTextField.setEnabled(false);
+                    PreguntaLabel.setText("Cuestionario Terminado.");
+                    RespuestaTextField.setEnabled(false);
                     submitButton.setEnabled(false);
                 }
             }
         });
 
-        frame.add(questionLabel);
-        frame.add(answerTextField);
+        frame.add(PreguntaLabel);
+        frame.add(RespuestaTextField);
         frame.add(submitButton);
-        frame.add(resultTextArea);
+        frame.add(resultadoTextArea);
 
         frame.pack();
         frame.setLocationRelativeTo(null);

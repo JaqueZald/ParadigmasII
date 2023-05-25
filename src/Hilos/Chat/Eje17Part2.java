@@ -7,10 +7,10 @@ import java.awt.event.ActionListener;
 
 public class Eje17Part2 {
     private JFrame frame;
-    private JLabel questionLabel;
-    private JTextArea resultTextArea;
-    private JScrollPane resultScrollPane;
-    private JTextField answerTextField;
+    private JLabel PreguntaLabel;
+    private JTextArea resultadoTextArea;
+    private JScrollPane resultadoScrollPane;
+    private JTextField respuestaTextField;
     private JButton submitButton;
 
     private String[] activities = {
@@ -41,47 +41,47 @@ public class Eje17Part2 {
         frame.setLayout(new BorderLayout());
 
         JPanel topPanel = new JPanel(new FlowLayout());
-        questionLabel = new JLabel(activities[currentQuestionIndex]);
-        topPanel.add(questionLabel);
+        PreguntaLabel = new JLabel(activities[currentQuestionIndex]);
+        topPanel.add(PreguntaLabel);
 
-        answerTextField = new JTextField(15);
+        respuestaTextField = new JTextField(15);
         submitButton = new JButton("Submit");
-        topPanel.add(answerTextField);
+        topPanel.add(respuestaTextField);
         topPanel.add(submitButton);
 
-        resultTextArea = new JTextArea(30, 50);
-        resultTextArea.setEditable(false);
-        resultScrollPane = new JScrollPane(resultTextArea);
+        resultadoTextArea = new JTextArea(30, 50);
+        resultadoTextArea.setEditable(false);
+        resultadoScrollPane = new JScrollPane(resultadoTextArea);
 
         frame.add(topPanel, BorderLayout.NORTH);
-        frame.add(resultScrollPane, BorderLayout.CENTER);
+        frame.add(resultadoScrollPane, BorderLayout.CENTER);
 
         submitButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                String response = answerTextField.getText().trim();
+                String response = respuestaTextField.getText().trim();
                 String correctAnswer = correctAnswers[currentQuestionIndex];
-                resultScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
-                resultTextArea.append("Question: " + activities[currentQuestionIndex] + "\n");
-                resultTextArea.append("Response: " + response + "\n");
+                resultadoScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+                resultadoTextArea.append("Pregunta: " + activities[currentQuestionIndex] + "\n");
+                resultadoTextArea.append("Respuesta: " + response + "\n");
 
                 if (response.equalsIgnoreCase(correctAnswer)) {
-                    resultTextArea.append("Correct!\n");
+                    resultadoTextArea.append("Correct!\n");
                 } else {
-                    resultTextArea.append("Incorrect!\n");
-                    resultTextArea.append("Correct answer: " + correctAnswer + "\n");
+                    resultadoTextArea.append("Incorrecto\n");
+                    resultadoTextArea.append("Respuesta correcta: " + correctAnswer + "\n");
                 }
 
-                resultTextArea.append("-----------------------\n");
+                resultadoTextArea.append("-----------------------\n");
 
                 currentQuestionIndex++;
 
                 if (currentQuestionIndex < activities.length) {
-                    questionLabel.setText(activities[currentQuestionIndex]);
-                    answerTextField.setText("");
-                    answerTextField.requestFocus();
+                    PreguntaLabel.setText(activities[currentQuestionIndex]);
+                    respuestaTextField.setText("");
+                    respuestaTextField.requestFocus();
                 } else {
-                    questionLabel.setText("Questionnaire completed.");
-                    answerTextField.setEnabled(false);
+                    PreguntaLabel.setText("Cuestionario Completo");
+                    respuestaTextField.setEnabled(false);
                     submitButton.setEnabled(false);
                 }
             }
