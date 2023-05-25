@@ -65,7 +65,7 @@ public class Eje17Part2 {
                 resultadoTextArea.append("Respuesta: " + response + "\n");
 
                 if (response.equalsIgnoreCase(correctAnswer)) {
-                    resultadoTextArea.append("Correct!\n");
+                    resultadoTextArea.append("Correcto\n");
                 } else {
                     resultadoTextArea.append("Incorrecto\n");
                     resultadoTextArea.append("Respuesta correcta: " + correctAnswer + "\n");
